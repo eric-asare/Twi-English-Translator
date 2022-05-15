@@ -3,6 +3,7 @@
 ## my-Twi-English-translator
 I made an English to Twi translator. my-Twi-English-translator is an NLP python program that translates an  English Text to Twi. 
 
+Link to Google Collab : https://colab.research.google.com/drive/1T5L9iVa8UAzAO9C_aASBb8AWC8ZEkt2z?usp=sharing
 
 Twi is one of the major Ghanaian Languages. 
 NLP (Natural Language Processing) is a subset of Machine Learning and AI concerned with teaching computers to read, understand and act on human language. 
